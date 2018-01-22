@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0910Traval", "09Traval\09Tr
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11Hits", "11Hits\11Hits.vcxproj", "{CA24C68E-8989-4023-BE60-134C7E86E88B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14Window", "14Window\14Window.vcxproj", "{0C456526-DE64-4B1A-AE70-026BE14B36C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -49,6 +51,10 @@ Global
 		{CA24C68E-8989-4023-BE60-134C7E86E88B}.Debug|Win32.Build.0 = Debug|Win32
 		{CA24C68E-8989-4023-BE60-134C7E86E88B}.Release|Win32.ActiveCfg = Release|Win32
 		{CA24C68E-8989-4023-BE60-134C7E86E88B}.Release|Win32.Build.0 = Release|Win32
+		{0C456526-DE64-4B1A-AE70-026BE14B36C0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0C456526-DE64-4B1A-AE70-026BE14B36C0}.Debug|Win32.Build.0 = Debug|Win32
+		{0C456526-DE64-4B1A-AE70-026BE14B36C0}.Release|Win32.ActiveCfg = Release|Win32
+		{0C456526-DE64-4B1A-AE70-026BE14B36C0}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
